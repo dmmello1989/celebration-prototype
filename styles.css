@@ -52,7 +52,6 @@ a {
 
 .menu-link {
   position: relative;
-  text-transform: uppercase;
 }
 .menu-link:after {
   content: "";
@@ -136,7 +135,7 @@ a {
 .main-center-right-login {
   display: flex;
   flex-direction: column;
-  padding: 32px 0;
+  padding: 32px;
   text-align: center;
   background-color: #ffffff;
 }
